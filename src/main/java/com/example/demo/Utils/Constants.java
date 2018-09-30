@@ -2,6 +2,14 @@ package com.example.demo.Utils;
 
 public class Constants {
 
-	public static String UM_APP_KEY="5baf2319b465f5df8b00011d";
-	public static String UM_APP_MASTER_SECRET="cx2gwmxuntofqvsjaxlndxjjkq1fj5sj";
+	// youmeng 推送参数
+	public static String UM_APP_KEY="";
+	public static String UM_APP_MASTER_SECRET="";
+	public static String UM_HOST = "http://msg.umeng.com";
+	public static String UM_SEND_API_PATH = "/api/send"; 
+	
+	// register device
+	
+	public static String XIAOBO_DEVICE_TOKEN="";
+	
 }
